@@ -57,6 +57,13 @@ A few weeks after starting his new role, Jeremy is approached by upper managemen
 
 **4. Deliverable 4: Design a Study Comparing the MechaCar to the Competition:**
 
-- Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
-- An addtional metric (not in the MechaCar_mpg dataset) is horsepower (or a a measure like engine size or # of cylinders). Manufactors often note a saller engine size (8 vs. 6 vs. 4) result in improved mpg.
-- The Null hypothesis would be there is no statistical difference while the Alternative hypothesis would be there is a difference.
+- Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you'll write a summary interpretation of the findings.
+
+
+-- What metric or metrics are you going to test? - An addtional metric (not in the MechaCar_mpg dataset) is horsepower (or a a measure like engine size or # of cylinders). Manufactors often note a saller engine size (8 vs. 6 vs. 4) result in improved mpg.
+
+- What is the null hypothesis or alternative hypothesis? The Null hypothesis would be there is no statistical difference while the Alternative hypothesis would be there is a difference.
+
+- What statistical test would you use to test the hypothesis? ANOVA And why? It seems to work well for the data already analyzed and can find a statistical difference between the distribution mean from Multiple samples. 
+
+- What data is needed to run the statistical test?- Horsepower
